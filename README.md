@@ -40,9 +40,8 @@ Allgemein zu sonst noch vorhandenen Statistiken:
 
 Spider: 
 
+![Alt-Text](C:\Users\Admin\Desktop\cas-datenjournalismus\cas-ddj\Meine Projekte)
 
-[Bild 1]: C:\Users\Admin\Desktop\cas-datenjournalismus\cas-ddj\Meine Projekte  "Spider"
-![Alt-Text][Bild 1]
 
 
 Know-How-Aufbau: 8

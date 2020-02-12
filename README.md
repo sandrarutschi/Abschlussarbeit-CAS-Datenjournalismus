@@ -3,7 +3,7 @@ Mein Repository zur CAS-Abschlussarbeit
 
 
 ## Fertige Arbeit
-Link zur Online-Arbeit, aufbereitet für Abgabetermin am 17. Februar: https://bzgrafik.ch/web-spezial/steueranalyse/
+Link zur Online-Arbeit, aufbereitet für Abgabetermin bis zum 17. Februar: https://bzgrafik.ch/web-spezial/steueranalyse/
 
 
 Die Arbeit erscheint als Listicle aufbereitet ab dem 18. Februar im neuen Website-Layout und nach dem Mobile-First-Konzept in der Berner Zeitung. Ebenso in der Printversion mit eigenem Layout.
@@ -124,5 +124,5 @@ https://github.com/sandrarutschi/Abschlussarbeit-CAS-Datenjournalismus/blob/mast
 
 ## Nächste Schritte
 - Geschichte erfassen und gestalten im CS für Online und Printversion
-- Letzte Gegenlese im Team
+- Letzte Gegenlese im Team mit Publikation-Gestaltung
 - Publikation

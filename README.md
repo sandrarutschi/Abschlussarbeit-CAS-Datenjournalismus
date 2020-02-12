@@ -2,6 +2,13 @@
 Mein Repository zur CAS-Abschlussarbeit
 
 
+## Fertige Arbeit
+Link zur Online-Arbeit, aufbereitet für Abgabetermin am 17. Februar: 
+
+
+Die Arbeit erscheint ab dem 18. Februar im neuen Website-Layout der Berner Zeitung.
+
+
 ## Idee
 
 #### Die Aktualität
@@ -19,7 +26,7 @@ https://www.sv.fin.be.ch/sv_fin/de/index/navi/index/organisation/statistik/stati
 2. Ich gehe aber davon aus, dass in anderen Kantonen (mein Vergleich wären wohl Zürich sowie Solothurn und/oder Luzern als Nachbarkantone) die Anzahl Firmen und Steuereinnahmen zugenommen haben. 
 3. Zudem gehe ich davon aus, dass prozentual gesehen die Firmen im Vergleich zu den Privatpersonen immer einen geringeren Anteil der Steuerlast tragen. 
 
-Fazit: Der Kanton Bern ist zwar attraktiv für Firmen, aber andere Kantone sind attraktiver. Es stellt sich auch die Frage, was für Firmen der Kanton Bern denn anzieht. Wahrscheinlich sind es nicht jene mit den grossen Gewinnen.
+Fazit: Der Kanton Bern ist zwar attraktiv für Firmen, aber es stellt sich auch die Frage, was für Firmen der Kanton Bern denn anzieht. Wahrscheinlich sind es nicht jene mit den grossen Gewinnen.
 
 4. Bei den natürlichen Personen zeigt sich, dass die Alleinstehenden in den letzten 15 Jahren viel zahlreicher geworden sind, während die Verheirateten stagnierten. Das zeigt sich auch beim Wachstum der Steuererträge: Bei den Alleinstehenden wuchs es stark, bei den Ehepaaren stagniert es. Da stellt sich die Frage, ob der Kanton Bern mit den Abzügen für Kinderdrittbetreuung (von denen zudem vor allem gut Verdienende profitieren werden) am richtigen Ort Anreize setzt. Knackpunkt: Eventuell sind bei den Alleinstehenden auch Konkubinatspaare dabei.
 
@@ -30,17 +37,47 @@ Mein Plan  ist, die Geschichte vor der Debatte im Grossen Rat zu publizieren. Ev
 
 ## Vorarbeiten
 
-#### Vorgespräch
+### Vorgespräch
 
-##### Hans Frauchiger, Leiter Steuerung und Controlling der Berner Steuerverwaltung 
-Zu den Alleinstehenden: Bei den Alleinstehenden sind tatsächlich auch Konkubinatspaare als zwei Einzelpersonen in der Statistik erfasst. Er liefert mir Zahlen für die Alleinstehenden, also für jene, die den Abzug für Alleinstehende machen dürfen. Unschärfe darin: Auch WGs und Altersheime sind drin. Das ist laut Frauchiger aber vernachlässigbar, es wäre dennoch ein Effekt erkennbar. Achtung: Die Zahlen, die er mir liefert, können leicht differieren zu jenen im Netz, weil mittlerweile mehr Leute definitiv veranlagt sind aus diesen Jahren. Er geht davon aus, dass vor allem die Konkubinatspaare mehr geworden sind. 
-Zu den Firmen:
-Allgemein zu sonst noch vorhandenen Statistiken: 
-- Das Bundesamt für Statistik 
+#### Hans Frauchiger, Leiter Steuerung und Controlling der Berner Steuerverwaltung 
+###### Zu den Alleinstehenden: 
+- Bei den Alleinstehenden sind tatsächlich auch Konkubinatspaare als zwei Einzelpersonen in der Statistik erfasst. Er liefert mir Zahlen für die Alleinstehenden, also für jene, die den Abzug für Alleinstehende machen dürfen. 
+- Unschärfe darin: Auch WGs und Altersheime sind drin. Das ist laut Frauchiger aber vernachlässigbar, es wäre dennoch ein Effekt erkennbar. 
+- Achtung: Die Zahlen, die er mir liefert, können leicht differieren zu jenen im Netz, weil mittlerweile mehr Leute definitiv veranlagt sind aus diesen Jahren. Er geht davon aus, dass vor allem die Konkubinatspaare mehr geworden sind. 
 
-Spider: 
+###### Zu den Firmen:
+- Es gibt vor einigen Jahren einen Ansprung in der Statistik. Grund: Vereine, welche eine gewisse  Gewinnhöhe nicht überschritten, mussten bis dahin keine Steuererklärung ausfüllen. 
+- Die Höhe der Gewinn hat sich nicht gross geändert, auch nicht bei grossen. Der Kanton Bern hat im Vergleich zu anderen Kantonen weniger viele jur Personen, die hohe Gewinne haben. Das führt zu einem gewissen Klumpenrisiko. 
+- Der Zuwachs hat nicht bei den entscheidenden (aka gewinnstarken) Firmen stattgefunden. 
+- Firmen mit Sonderstatut bezahlen nur beim Bund Steuern neu (STAF)
 
-![Alt-Text](C:\Users\Admin\Desktop\cas-datenjournalismus\cas-ddj\Meine Projekte)
+###### Vergleichbarkeit andere Kantone:
+- Zürich scheint ihm am vergleichbarsten zu sein von der Struktur her. Eventuell auch noch Fribourg. 
+
+
+###### Knackpunkte aus seiner Sicht: 
+- Die Steuerverwaltung soll effizienter arbeiten, hat aber immer mehr zu tun, mehr zu veranlagen (überall ein Problem, demographische Entwicklung). 
+- Klumpenrisiko bei den Firmen (wenn eine grosse geht, hat der Kanton ein Problem)
+- Durch viele Abzüge etcetera lässt die Steuerstatistik fast keine Rückschlüsse auf die wirkliche finanzielle Situation der Steuerzahler zu (bsp Kinderdrittbetreuung, Pendlerkosten, Berufskosten, Alleinstehendenabzug, usw.). Eine Analyse wird immer schwieriger, und man kann sich sehr schnell verlieren. 
+
+
+###### Allgemein zu sonst noch vorhandenen Statistiken (damit ich keine Arbeit mache, die es schon fixfertig irgendwo gibt): 
+- Das Bundesamt für Statistik führt Bevölkerungsstatistiken, bringt sie aber nicht mit dem Steuerertrag in Zusammenhang (nach dem Gespräch überprüft, fokussiert sich auch ausschliesslich auf die direkten Bundessteuern)
+- Die Eidgenössische Steuerverwaltung zieht interkantonale Vergleiche (nach dem Gespräch überprüft; beisst sich nicht mit meinem Projekt. Evtl. später zur Einbettung wieder hinzuziehen)
+- Viel geforscht wird zu Familienformen; dort sind dann auch Transferleistungen wie Sozialhilfe etcetera mit dabei. 
+- Für den Schweizerischen Nationalfonds wäre das Thema wohl zu lokal.
+- Leider kann er mir nichts Vergleichbares zu den Jahren ab 2018 liefern, weil der Veranlagungsstand noch zu wenig repräsentativ ist.
+
+(Geplant war auch ein Vorgespräch mit Matthias Stürmer. Er reagierte aber nicht auf mehrmaliges Nachfragen. Da mir Hans Frauchiger sehr fundiert Auskunft geben konnte, habe ich auf weiteres Insistieren verzichtet.)
+
+
+### Spider
+
+
+![1](Spider_Abschlussarbeit.jpeg)
+
+
+
 
 Know-How-Aufbau: 8
 Kooperationspotenzial: 3
@@ -50,3 +87,17 @@ Journalistischer Impact: 5
 Reichweite: 8
 
 
+## Datensätze und Codes
+
+hier die links zu den Notebooks und so rein tun
+
+
+## Arbeitsprotokoll
+
+Idee entwickeln, Vorgespräch Hans Frauchiger, Datensätze sdurchforsten/hochladen, Spider: 6h (verteilt Dez19/Jan20)
+Gewinnsteuer-Statistiken (PDFs) erfassen und aufbereiten: 10h (20./21. Januar 2020)
+Einkommenssteuer-Statistik erfassen und aufbereiten: 3h (22. Januar 2020)
+Plotten: 16h (22.-26. Januar 2020)
+Codes, Plots und Geschichte besprechen mit Kollege: 1h (29. Januar 2020)
+Geschichte schreiben / umsetzen / Plots besprechen mit Grafiker: 6 Stunden (verteilt 30. Januar - 12. Februar)
+Feedback / Gegencheck von Hans Frauchiger, Steuerverwaltung (mit Detail-Inputs und Erklärungen): 1h (10.-12. Februar)

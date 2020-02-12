@@ -68,7 +68,7 @@ Mein Plan  ist, die Geschichte vor der Debatte im Grossen Rat zu publizieren. Ev
 - Für den Schweizerischen Nationalfonds wäre das Thema wohl zu lokal.
 - Leider kann er mir nichts Vergleichbares zu den Jahren ab 2018 liefern, weil der Veranlagungsstand noch zu wenig repräsentativ ist.
 
-(Geplant war auch ein Vorgespräch mit Matthias Stürmer. Er reagierte aber nicht auf mehrmaliges Nachfragen. Da mir Hans Frauchiger sehr fundiert Auskunft geben konnte, habe ich auf weiteres Insistieren verzichtet.)
+(Geplant war auch ein Vorgespräch mit Matthias Stürmer. Er reagierte aber nicht auf mehrmaliges Nachfragen, sondern meldete sich erst, als alle Codes geschrieben waren. Da mir Hans Frauchiger sehr fundiert Auskunft geben konnte, habe ich auf weiteres Insistieren verzichtet.)
 
 
 ### Spider

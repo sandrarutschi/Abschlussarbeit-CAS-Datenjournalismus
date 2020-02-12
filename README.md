@@ -103,9 +103,15 @@ https://github.com/sandrarutschi/Abschlussarbeit-CAS-Datenjournalismus/blob/mast
 ## Arbeitsprotokoll
 
 Idee entwickeln, Vorgespräch Hans Frauchiger, Datensätze sdurchforsten/hochladen, Spider: 6h (verteilt Dez19/Jan20)
+
 Gewinnsteuer-Statistiken (PDFs) erfassen und aufbereiten: 10h (20./21. Januar 2020)
+
 Einkommenssteuer-Statistik erfassen und aufbereiten: 3h (22. Januar 2020)
+
 Plotten: 16h (22.-26. Januar 2020)
+
 Codes, Plots und Geschichte besprechen mit Kollege: 1h (29. Januar 2020)
+
 Geschichte schreiben / umsetzen / Plots besprechen mit Grafiker / Gegenlesen im Team: 6 Stunden (verteilt 30. Januar - 12. Februar)
+
 Feedback / Gegencheck von Hans Frauchiger, Steuerverwaltung (mit Detail-Inputs und Erklärungen): 1h (10.-12. Februar)

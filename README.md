@@ -6,7 +6,7 @@ Mein Repository zur CAS-Abschlussarbeit
 Link zur Online-Arbeit, aufbereitet für Abgabetermin am 17. Februar: 
 
 
-Die Arbeit erscheint ab dem 18. Februar im neuen Website-Layout der Berner Zeitung.
+Die Arbeit erscheint als Listicle aufbereitet ab dem 18. Februar im neuen Website-Layout und nach dem Mobile-First-Konzept in der Berner Zeitung. Ebenso in der Printversion mit eigenem Layout.
 
 
 ## Idee
@@ -47,7 +47,7 @@ Mein Plan  ist, die Geschichte vor der Debatte im Grossen Rat zu publizieren. Ev
 
 ###### Zu den Firmen:
 - Es gibt vor einigen Jahren einen Ansprung in der Statistik. Grund: Vereine, welche eine gewisse  Gewinnhöhe nicht überschritten, mussten bis dahin keine Steuererklärung ausfüllen. 
-- Die Höhe der Gewinn hat sich nicht gross geändert, auch nicht bei grossen. Der Kanton Bern hat im Vergleich zu anderen Kantonen weniger viele jur Personen, die hohe Gewinne haben. Das führt zu einem gewissen Klumpenrisiko. 
+- Die Höhe der Gewinne hat sich nicht gross geändert, auch nicht bei grossen. Der Kanton Bern hat im Vergleich zu anderen Kantonen weniger viele jur Personen, die hohe Gewinne haben. Das führt zu einem gewissen Klumpenrisiko. 
 - Der Zuwachs hat nicht bei den entscheidenden (aka gewinnstarken) Firmen stattgefunden. 
 - Firmen mit Sonderstatut bezahlen nur beim Bund Steuern neu (STAF)
 
@@ -100,18 +100,29 @@ https://github.com/sandrarutschi/Abschlussarbeit-CAS-Datenjournalismus/blob/mast
 https://github.com/sandrarutschi/Abschlussarbeit-CAS-Datenjournalismus/blob/master/Gewinnsteuer%20Plots.ipynb
 
 
+## Entscheide im Verlauf der Arbeit
+- Wirklich vergleichbare Zahlen aus anderen Kantonen sind schwierig zu erhalten. Auch aus Zeitgründen entschliesse ich mich, lediglich im Text eine kurze Einbettung zu machen, wo der Kanton Bern grundsätzlich steht. Denn insgesamt sind bereits die Ergebnisse aus dem Kanton spannend und relevant. Es geht darum, aus diesen Erkenntnissen eine Auswahl zu treffen.
+- Ich entscheide mich für die Listicle-Form: 10 Punkte, wie sich der Berner Steuerzahler verändert hat. Plus je eine Grafik zum jeweiligen Aspekt.
+
+
 ## Arbeitsprotokoll
 
-Idee entwickeln, Vorgespräch Hans Frauchiger, Datensätze sdurchforsten/hochladen, Spider: 6h (verteilt Dez19/Jan20)
+- Idee entwickeln, Vorgespräch Hans Frauchiger, Datensätze sdurchforsten/hochladen, Spider: 6h (verteilt Dez19/Jan20)
 
-Gewinnsteuer-Statistiken (PDFs) erfassen und aufbereiten: 10h (20./21. Januar 2020)
+- Gewinnsteuer-Statistiken (PDFs) erfassen und aufbereiten: 10h (20./21. Januar 2020)
 
-Einkommenssteuer-Statistik erfassen und aufbereiten: 3h (22. Januar 2020)
+- Einkommenssteuer-Statistik erfassen und aufbereiten: 3h (22. Januar 2020)
 
-Plotten: 16h (22.-26. Januar 2020)
+- Plotten: 16h (22.-26. Januar 2020)
 
-Codes, Plots und Geschichte besprechen mit Kollege: 1h (29. Januar 2020)
+- Codes, Plots und Geschichte besprechen mit Kollege: 1h (29. Januar 2020)
 
-Geschichte schreiben / umsetzen / Plots besprechen mit Grafiker / Gegenlesen im Team: 6 Stunden (verteilt 30. Januar - 12. Februar)
+- Geschichte schreiben / umsetzen / Plots besprechen und Anpassen mit Grafiker / Gegenlesen im Team: 6 Stunden (verteilt 30. Januar - 12. Februar)
 
-Feedback / Gegencheck von Hans Frauchiger, Steuerverwaltung (mit Detail-Inputs und Erklärungen): 1h (10.-12. Februar)
+- Feedback / Gegencheck von Hans Frauchiger, Steuerverwaltung (mit Detail-Inputs und Erklärungen): 1h (10.-12. Februar)
+
+
+## Nächste Schritte
+- Geschichte erfassen und gestalten im CS für Online und Printversion
+- Letzte Gegenlese im Team
+- Publikation

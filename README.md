@@ -94,6 +94,8 @@ Die Datensätze und Codes finden sich in diesem Repository. Direktverweise:
 Codes/Plots zu Einkommenssteuern:
 https://github.com/sandrarutschi/Abschlussarbeit-CAS-Datenjournalismus/blob/master/Reinschrift%20Einkommenssteuer%20richtig.ipynb
 
+Codes/Plots zu Gewinnsteuern:
+https://github.com/sandrarutschi/Abschlussarbeit-CAS-Datenjournalismus/blob/master/Gewinnsteuer%20Zusammenf%C3%BCgen%20von%20Jahren.ipynb
 
 
 ## Arbeitsprotokoll

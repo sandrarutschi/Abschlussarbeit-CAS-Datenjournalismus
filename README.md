@@ -89,7 +89,11 @@ Reichweite: 8
 
 ## Datensätze und Codes
 
-hier die links zu den Notebooks und so rein tun
+Die Datensätze und Codes finden sich in diesem Repository. Direktverweise:
+
+Codes/Plots zu Einkommenssteuern:
+https://github.com/sandrarutschi/Abschlussarbeit-CAS-Datenjournalismus/blob/master/Reinschrift%20Einkommenssteuer%20richtig.ipynb
+
 
 
 ## Arbeitsprotokoll

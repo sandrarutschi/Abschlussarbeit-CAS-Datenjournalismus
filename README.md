@@ -3,7 +3,7 @@ Mein Repository zur CAS-Abschlussarbeit
 
 
 ## Fertige Arbeit
-Link zur Online-Arbeit, aufbereitet für Abgabetermin bis zum 17. Februar: https://bzgrafik.ch/web-spezial/steueranalyse/
+https://www.bernerzeitung.ch/so-haben-sich-die-steuerzahler-veraendert-899339702447 (mit Paywall)
 
 
 Die Arbeit erscheint als Listicle aufbereitet ab dem 18. Februar im neuen Website-Layout und nach dem Mobile-First-Konzept in der Berner Zeitung. Ebenso in der Printversion mit eigenem Layout.
